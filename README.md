@@ -5,28 +5,29 @@
 
 ## Executive summary
 
-- Hlavní provoz mimo systémové účty udělal za období **11,523 interakcí**. Z toho čistě lidské účty mají **10,124**.
-- **Klinika je relevantní provozní účet a patří do hlavního srovnání**: má **1,399 interakcí**, tedy víc než Monika, Holinská, Marketa, Sabina, Denisa i Nikola.
-- Největší objem práce mají: **Zdeňka (2,051)**, **Marcela Vorackova (1,862)**, **Zuzana Perglová (1,679)**.
-- Největší datový problém je pořád **nepřiřazený e-mailový provoz**: **8,414 e-mailů**, tj. **63.3 %** všech e-mailových aktivit v datasetu.
+- Hlavní provoz mimo systémové účty udělal za období **11 523 interakcí**. Z toho čistě lidské účty mají **10 124**.
+- **Klinika je relevantní provozní účet a patří do hlavního srovnání**: má **1 399 interakcí**, tedy víc než Monika, Holinská, Marketa, Sabina, Denisa i Nikola.
+- Největší objem práce mají: **Zdeňka (2 051)**, **Marcela Vorackova (1 862)**, **Zuzana Perglová (1 679)**.
+- Největší datový problém je pořád **nepřiřazený e-mailový provoz**: **8 414 e-mailů**, tj. **63.3 %** všech e-mailových aktivit v datasetu.
 - Nepřiřazené hovory jsou proti tomu mnohem menší problém: **523**, tj. **5.5 %** call datasetu.
+- Nově jsou v hlavní tabulce i **časy inbound a outbound hovorů**, aby bylo vidět nejen kolik hovorů kdo měl, ale i kolik času na nich reálně strávil.
 
 ## Hlavní srovnání všech relevantních účtů
 
-| Účet | Typ | Role | Aktivní dny | Celkem | Hovory | Inbound | Outbound | Úspěšnost hovorů | E-maily | Chaty | SMS | Průměr / aktivní den |
-|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Zdeňka | human | Operátor | 52 | 2051 | 1062 | 214 | 848 | 65.1 % | 935 | 1 | 53 | 39.44 |
-| Marcela Vorackova | human | Operátor | 61 | 1862 | 946 | 142 | 804 | 64.9 % | 782 | 3 | 131 | 30.52 |
-| Zuzana Perglová | human | Administrátor s licencemi | 44 | 1679 | 759 | 260 | 499 | 65.9 % | 915 | 1 | 4 | 38.16 |
-| Klinika | shared | Operátor | 71 | 1399 | 1151 | 191 | 955 | 63.0 % | 246 | 0 | 2 | 19.70 |
-| Monika Neveceralova | human | Operátor | 39 | 1355 | 1013 | 234 | 779 | 64.5 % | 215 | 1 | 126 | 34.74 |
-| Holinská | human | Operátor | 31 | 1140 | 866 | 0 | 866 | 58.9 % | 78 | 0 | 196 | 36.77 |
-| Marketa Keslova | human | Operátor | 55 | 1058 | 603 | 158 | 445 | 59.9 % | 378 | 1 | 76 | 19.24 |
-| Sabina Boskova | human | Administrátor s licencemi | 59 | 712 | 324 | 78 | 246 | 63.6 % | 320 | 3 | 65 | 12.07 |
-| Denisa Hovora | human | Administrátor | 3 | 156 | 102 | 0 | 102 | 33.3 % | 8 | 0 | 46 | 52.00 |
-| Nikola Morávková | human | Administrátor | 11 | 110 | 16 | 9 | 7 | 75.0 % | 94 | 0 | 0 | 10.00 |
-| Rudolf Konfal | human | Administrátor s licencemi | 1 | 1 | 0 | 0 | 0 | — | 1 | 0 | 0 | 1.00 |
-| Sona Duchkova | human | — | 0 | 0 | 0 | 0 | 0 | — | 0 | 0 | 0 | 0.00 |
+| Účet | Typ | Role | Aktivní dny | Celkem | Hovory | Inbound | Outbound | Čas inbound | Čas outbound | Úspěšnost hovorů | E-maily | Chaty | SMS | Průměr / aktivní den |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Zdeňka | human | Operátor | 52 | 2 051 | 1 062 | 214 | 848 | 13 h 47 min | 20 h 7 min | 65.1 % | 935 | 1 | 53 | 39.44 |
+| Marcela Vorackova | human | Operátor | 61 | 1 862 | 946 | 142 | 804 | 9 h 8 min | 24 h 54 min | 64.9 % | 782 | 3 | 131 | 30.52 |
+| Zuzana Perglová | human | Administrátor s licencemi | 44 | 1 679 | 759 | 260 | 499 | 17 h 33 min | 13 h 9 min | 65.9 % | 915 | 1 | 4 | 38.16 |
+| Klinika | shared | Operátor | 71 | 1 399 | 1 151 | 191 | 955 | 6 h 11 min | 16 h 35 min | 63.0 % | 246 | 0 | 2 | 19.70 |
+| Monika Neveceralova | human | Operátor | 39 | 1 355 | 1 013 | 234 | 779 | 18 h 53 min | 19 h 38 min | 64.5 % | 215 | 1 | 126 | 34.74 |
+| Holinská | human | Operátor | 31 | 1 140 | 866 | 0 | 866 | 0 min | 17 h 45 min | 58.9 % | 78 | 0 | 196 | 36.77 |
+| Marketa Keslova | human | Operátor | 55 | 1 058 | 603 | 158 | 445 | 8 h 3 min | 8 h 33 min | 59.9 % | 378 | 1 | 76 | 19.24 |
+| Sabina Boskova | human | Administrátor s licencemi | 59 | 712 | 324 | 78 | 246 | 5 h 1 min | 5 h 5 min | 63.6 % | 320 | 3 | 65 | 12.07 |
+| Denisa Hovora | human | Administrátor | 3 | 156 | 102 | 0 | 102 | 0 min | 1 h 3 min | 33.3 % | 8 | 0 | 46 | 52.00 |
+| Nikola Morávková | human | Administrátor | 11 | 110 | 16 | 9 | 7 | 15 min | 0 min | 75.0 % | 94 | 0 | 0 | 10.00 |
+| Rudolf Konfal | human | Administrátor s licencemi | 1 | 1 | 0 | 0 | 0 | 0 min | 0 min | — | 1 | 0 | 0 | 1.00 |
+| Sona Duchkova | human | — | 0 | 0 | 0 | 0 | 0 | 0 min | 0 min | — | 0 | 0 | 0 | 0.00 |
 
 ## Tvrdší závěry
 
