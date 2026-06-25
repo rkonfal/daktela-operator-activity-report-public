@@ -14,20 +14,20 @@
 
 ## Hlavní srovnání všech relevantních účtů
 
-| Účet | Role | Aktivní dny | Celkem | Hovory | Inbound | Outbound | Průměr inbound / hovor | Průměr outbound / hovor | Úspěšnost hovorů | E-maily | Chaty | SMS | Průměr / aktivní den |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Zdeňka | Operátor | 52 | 2 051 | 1 062 | 214 | 848 | 3 min | 1 min | 65.1 % | 935 | 1 | 53 | 39.44 |
-| Marcela Vorackova | Operátor | 61 | 1 862 | 946 | 142 | 804 | 3 min | 1 min | 64.9 % | 782 | 3 | 131 | 30.52 |
-| Zuzana Perglová | Administrátor s licencemi | 44 | 1 679 | 759 | 260 | 499 | 4 min | 1 min | 65.9 % | 915 | 1 | 4 | 38.16 |
-| Klinika | Operátor | 71 | 1 399 | 1 151 | 191 | 955 | 1 min | 1 min | 63.0 % | 246 | 0 | 2 | 19.70 |
-| Monika Neveceralova | Operátor | 39 | 1 355 | 1 013 | 234 | 779 | 4 min | 1 min | 64.5 % | 215 | 1 | 126 | 34.74 |
-| Holinská | Operátor | 31 | 1 140 | 866 | 0 | 866 | — | 1 min | 58.9 % | 78 | 0 | 196 | 36.77 |
-| Marketa Keslova | Operátor | 55 | 1 058 | 603 | 158 | 445 | 3 min | 1 min | 59.9 % | 378 | 1 | 76 | 19.24 |
-| Sabina Boskova | Administrátor s licencemi | 59 | 712 | 324 | 78 | 246 | 3 min | 1 min | 63.6 % | 320 | 3 | 65 | 12.07 |
-| Denisa Hovora | Administrátor | 3 | 156 | 102 | 0 | 102 | — | 0 min | 33.3 % | 8 | 0 | 46 | 52.00 |
-| Nikola Morávková | Administrátor | 11 | 110 | 16 | 9 | 7 | 1 min | 0 min | 75.0 % | 94 | 0 | 0 | 10.00 |
-| Rudolf Konfal | Administrátor s licencemi | 1 | 1 | 0 | 0 | 0 | — | — | — | 1 | 0 | 0 | 1.00 |
-| Sona Duchkova | — | 0 | 0 | 0 | 0 | 0 | — | — | — | 0 | 0 | 0 | 0.00 |
+| Účet | Aktivní dny | Celkem | Hovory | Inbound | Outbound | Průměr inbound / hovor | Průměr outbound / hovor | Úspěšnost hovorů | E-maily | Chaty | SMS | Průměr / aktivní den |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Zdeňka | 52 | 2 051 | 1 062 | 214 | 848 | 3 min | 1 min | 65.1 % | 935 | 1 | 53 | 39.44 |
+| Marcela Vorackova | 61 | 1 862 | 946 | 142 | 804 | 3 min | 1 min | 64.9 % | 782 | 3 | 131 | 30.52 |
+| Zuzana Perglová | 44 | 1 679 | 759 | 260 | 499 | 4 min | 1 min | 65.9 % | 915 | 1 | 4 | 38.16 |
+| Klinika | 71 | 1 399 | 1 151 | 191 | 955 | 1 min | 1 min | 63.0 % | 246 | 0 | 2 | 19.70 |
+| Monika Neveceralova | 39 | 1 355 | 1 013 | 234 | 779 | 4 min | 1 min | 64.5 % | 215 | 1 | 126 | 34.74 |
+| Holinská | 31 | 1 140 | 866 | 0 | 866 | — | 1 min | 58.9 % | 78 | 0 | 196 | 36.77 |
+| Marketa Keslova | 55 | 1 058 | 603 | 158 | 445 | 3 min | 1 min | 59.9 % | 378 | 1 | 76 | 19.24 |
+| Sabina Boskova | 59 | 712 | 324 | 78 | 246 | 3 min | 1 min | 63.6 % | 320 | 3 | 65 | 12.07 |
+| Denisa Hovora | 3 | 156 | 102 | 0 | 102 | — | 0 min | 33.3 % | 8 | 0 | 46 | 52.00 |
+| Nikola Morávková | 11 | 110 | 16 | 9 | 7 | 1 min | 0 min | 75.0 % | 94 | 0 | 0 | 10.00 |
+| Rudolf Konfal | 1 | 1 | 0 | 0 | 0 | — | — | — | 1 | 0 | 0 | 1.00 |
+| Sona Duchkova | 0 | 0 | 0 | 0 | 0 | — | — | — | 0 | 0 | 0 | 0.00 |
 
 ## Tvrdší závěry
 
